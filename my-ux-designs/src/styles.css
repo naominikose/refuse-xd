@@ -2,3 +2,8 @@
 .fit {
   max-width: 99%;
 }
+
+/*.refuse-img {
+  background-image: url('src/assets/homepage.jpg');
+  background-size: cover;
+}*/
